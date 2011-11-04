@@ -52,6 +52,7 @@ areas or characters.
 %doc %{_texmfdistdir}/source/generic/pst-fill/Makefile
 %doc %{_texmfdistdir}/source/generic/pst-fill/pst-fill.dtx
 %doc %{_texmfdistdir}/source/generic/pst-fill/pst-fill.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -62,3 +63,5 @@ areas or characters.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}

@@ -6,7 +6,7 @@
 # catalog-version 1.01
 Name:		texlive-pst-fill
 Version:	1.01
-Release:	7
+Release:	8
 Summary:	Fill or tile areas with PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-fill

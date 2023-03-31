@@ -1,6 +1,6 @@
 Name:		texlive-pst-fill
 Version:	60671
-Release:	1
+Release:	2
 Summary:	Fill or tile areas with PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-fill

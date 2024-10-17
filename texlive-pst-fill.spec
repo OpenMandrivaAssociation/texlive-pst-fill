@@ -3,7 +3,7 @@ Version:	60671
 Release:	2
 Summary:	Fill or tile areas with PSTricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-fill
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-fill
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-fill.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-fill.doc.r%{version}.tar.xz
